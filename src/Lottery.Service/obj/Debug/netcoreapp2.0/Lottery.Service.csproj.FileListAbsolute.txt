@@ -1,0 +1,15 @@
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.csprojResolveAssemblyReference.cache
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.csproj.CoreCompileInputs.cache
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.AssemblyInfoInputs.cache
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.AssemblyInfo.cs
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Service.deps.json
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Service.dll
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Service.pdb
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Core.dll
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.dll
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Model.dll
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Core.pdb
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.pdb
+E:\Net\src\Lottery.Service\bin\Debug\netcoreapp2.0\Lottery.Model.pdb
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.dll
+E:\Net\src\Lottery.Service\obj\Debug\netcoreapp2.0\Lottery.Service.pdb

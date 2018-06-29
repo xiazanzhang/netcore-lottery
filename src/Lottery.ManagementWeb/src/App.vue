@@ -1,25 +1,40 @@
 <template>
     <div id="app">
-        <left-menu>
-            <template slot="content">
-                <router-view class="router-view"></router-view>
-            </template>
-        </left-menu>
+        <div v-if="isLayout">
+            <layout>
+                <template slot="content">
+                    <router-view/>
+                </template>
+            </layout>
+        </div>
+        <div v-else>
+            <router-view/>
+        </div>
     </div>
 </template>
 
 <script>
-import Menu from "./components/menu";
+import layout from "@/components/layout";
 
 export default {
+    name: "App",
     components: {
-        LeftMenu: Menu
+        layout
+    },
+    data() {
+        return {
+            isLayout: false
+        };
+    },
+    updated() {
+        this.isLayout = this.$route.meta.layout == undefined ? true : false;
+        document.title = this.$route.name;
     }
 };
 </script>
 
-<style lang="less">
-@import "~iview/dist/styles/iview.css";
-@import "assets/style/global.less";
-@import "https://cdn.bootcss.com/animate.css/3.5.2/animate.css";
+<style>
+body {
+    background: #f4f4f4;
+}
 </style>

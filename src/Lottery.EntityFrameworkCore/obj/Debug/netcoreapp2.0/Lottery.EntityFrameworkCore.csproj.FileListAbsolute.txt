@@ -1,0 +1,11 @@
+E:\Net\src\Lottery.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.deps.json
+E:\Net\src\Lottery.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.dll
+E:\Net\src\Lottery.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.pdb
+E:\Net\src\Lottery.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Lottery.Model.dll
+E:\Net\src\Lottery.EntityFrameworkCore\bin\Debug\netcoreapp2.0\Lottery.Model.pdb
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.AssemblyInfo.cs
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.dll
+E:\Net\src\Lottery.EntityFrameworkCore\obj\Debug\netcoreapp2.0\Lottery.EntityFrameworkCore.pdb

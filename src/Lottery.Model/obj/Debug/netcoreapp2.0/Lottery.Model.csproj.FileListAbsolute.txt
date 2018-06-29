@@ -1,0 +1,8 @@
+E:\Net\src\Lottery.Model\bin\Debug\netcoreapp2.0\Lottery.Model.deps.json
+E:\Net\src\Lottery.Model\bin\Debug\netcoreapp2.0\Lottery.Model.dll
+E:\Net\src\Lottery.Model\bin\Debug\netcoreapp2.0\Lottery.Model.pdb
+E:\Net\src\Lottery.Model\obj\Debug\netcoreapp2.0\Lottery.Model.csproj.CoreCompileInputs.cache
+E:\Net\src\Lottery.Model\obj\Debug\netcoreapp2.0\Lottery.Model.AssemblyInfoInputs.cache
+E:\Net\src\Lottery.Model\obj\Debug\netcoreapp2.0\Lottery.Model.AssemblyInfo.cs
+E:\Net\src\Lottery.Model\obj\Debug\netcoreapp2.0\Lottery.Model.dll
+E:\Net\src\Lottery.Model\obj\Debug\netcoreapp2.0\Lottery.Model.pdb

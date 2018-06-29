@@ -1,29 +1,25 @@
-//文档地址：https://router.vuejs.org/zh-cn/
-
 import Vue from 'vue'
-import VueRouter from 'vue-router'
+import Router from 'vue-router'
 
-Vue.use(VueRouter)
 
-const routes = [
-    {
-        path: '/',
-        name: '/',
-        component: resolve => require(['@/view/home/index'], resolve)
-    },
-    {
-        path: '/member',
-        name: 'member',
-        component: resolve => require(['@/view/member/index'], resolve)
-    }
-]
+Vue.use(Router)
 
-//路由配置
-const RouterConfig = {
-    mode: 'history',
-    routes: routes
-}
-
-const router = new VueRouter(RouterConfig)
+let router = new Router({
+	routes: [
+		{
+			path: '/',
+			name: '首页',
+			component: resolve => require(['@/view/index'], resolve)
+		},
+		{
+			path: '/login',
+			name: '登陆',
+			meta: {
+				layout: false
+			},
+			component: resolve => require(['@/view/sys/login'], resolve)
+		}
+	]
+})
 
 export default router
